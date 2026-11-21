@@ -21,7 +21,7 @@ A Laravel rebuild of the TSA1 Tasks for Today Management System, using migration
 
 1. Clone the repository:
    ```
-   git clone https://github.com/YOUR-USERNAME/tasks-laravel.git
+   git clone https://github.com/aaart005-en/tasks-laravel.git
    cd tasks-laravel
    ```
 2. Install dependencies:
