@@ -54,4 +54,4 @@ A Laravel rebuild of the TSA1 Tasks for Today Management System, using migration
 
 ## Live demo
 
-(add your hosted link here)
+http://tasks-laravel-art.loveslife.biz
